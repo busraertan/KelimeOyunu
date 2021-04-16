@@ -1,0 +1,11 @@
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Giris.resources
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Oyun.resources
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ozelb\OneDrive\Belgeler\Kelime Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
